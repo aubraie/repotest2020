@@ -9,7 +9,7 @@
  * @subpackage Twenty_Sixteen
  * @since Twenty Sixteen 1.0
  */
-
+/* hay mais on te voit plus en soiréeeee !!!! */
 /*
  * If the current post is protected by a password and
  * the visitor has not yet entered the password we will
