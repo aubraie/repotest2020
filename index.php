@@ -1,5 +1,5 @@
 <?php
-// ici c'est la DEV
+// ici c'est la PROD
 
 // Silence is golden.
 // dhusd / 1
